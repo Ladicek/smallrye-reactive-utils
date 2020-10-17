@@ -20,6 +20,11 @@ io.vertx.mutiny.core.parsetools
 io.vertx.mutiny.core.shareddata
 io.vertx.mutiny.core.streams
 io.vertx.mutiny.db2client
+io.vertx.mutiny.ext.auth
+io.vertx.mutiny.ext.auth.jwt
+io.vertx.mutiny.ext.auth.oauth2
+io.vertx.mutiny.ext.auth.oauth2.providers
+io.vertx.mutiny.ext.auth.oauth2.rbac
 io.vertx.mutiny.ext.consul
 io.vertx.mutiny.ext.mail
 io.vertx.mutiny.ext.mongo
@@ -42,3 +47,5 @@ io.vertx.mutiny.redis
 io.vertx.mutiny.redis.client
 io.vertx.mutiny.redis.sentinel
 io.vertx.mutiny.sqlclient
+io.vertx.mutiny.sqlclient.desc
+io.vertx.mutiny.sqlclient.spi
